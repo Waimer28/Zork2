@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Zork_
+namespace Zork
 {
     class Program
     {
